@@ -13,8 +13,6 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 
-Rename .env.example to .env
-
 GOOGLE_API_KEY=YOUR_API_KEY
 
 Run:
